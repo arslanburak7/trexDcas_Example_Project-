@@ -1,0 +1,10 @@
+C:\Users\Burak\Source\Repos\Ornekproje\Ornekproje\bin\Debug\Ornekproje.exe.config
+C:\Users\Burak\Source\Repos\Ornekproje\Ornekproje\bin\Debug\Ornekproje.exe
+C:\Users\Burak\Source\Repos\Ornekproje\Ornekproje\bin\Debug\Ornekproje.pdb
+C:\Users\Burak\Source\Repos\Ornekproje\Ornekproje\obj\Debug\Ornekproje.csprojAssemblyReference.cache
+C:\Users\Burak\Source\Repos\Ornekproje\Ornekproje\obj\Debug\Ornekproje.Form1.resources
+C:\Users\Burak\Source\Repos\Ornekproje\Ornekproje\obj\Debug\Ornekproje.Properties.Resources.resources
+C:\Users\Burak\Source\Repos\Ornekproje\Ornekproje\obj\Debug\Ornekproje.csproj.GenerateResource.cache
+C:\Users\Burak\Source\Repos\Ornekproje\Ornekproje\obj\Debug\Ornekproje.csproj.CoreCompileInputs.cache
+C:\Users\Burak\Source\Repos\Ornekproje\Ornekproje\obj\Debug\Ornekproje.exe
+C:\Users\Burak\Source\Repos\Ornekproje\Ornekproje\obj\Debug\Ornekproje.pdb
